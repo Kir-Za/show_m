@@ -11,5 +11,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Project stage
 
-**Second variant**
+**Last variant**
 ***
